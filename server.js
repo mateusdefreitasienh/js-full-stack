@@ -8,7 +8,3 @@ app.get('/mateus', (req, res) => {
 });
 
 app.listen(port, () => console.log("O server está on!"));
-
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
