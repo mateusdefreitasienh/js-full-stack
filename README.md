@@ -18,3 +18,10 @@ npm install express
   "type": "module",
 ```
 
+- Para nao precisar ficar reiniciando o servidor
+- rodar com `npm run dev`
+```json
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+```
